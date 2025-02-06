@@ -15,13 +15,12 @@ public class Character {
     }
 
     public void attack() {
-        System.out.println(name + ": " + attackStrategy.attack());
+        System.out.println(name + ": \n" + attackStrategy.attack());
     }
 
     public void defend() {
-        System.out.println(name + " defends:");
         for (DefenseStrategy defenseStrategy : defenseStrategies) {
-            System.out.println(" - " + defenseStrategy.defend());
+            System.out.println(defenseStrategy.defend());
         }
     }
 

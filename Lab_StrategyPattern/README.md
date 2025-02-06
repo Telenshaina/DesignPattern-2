@@ -1,6 +1,10 @@
 # DesignPattern-2
 Design Patterns for Software Engineering 2
 
+
+UML:
+https://lucid.app/lucidchart/639f3df7-f500-442d-a836-749c27a03d82/edit?view_items=UjtQYhZ1HkJ_&invitationId=inv_3a161741-733f-4f37-ad61-e6040ba0d2b2
+
 Problem scenario:
 
 Suppose we have three types of characters in a GameApp:
